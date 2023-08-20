@@ -13,7 +13,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Environments Used </h2>
 
-- <b>Eclipse -java</b> (21H2)
+- <b>Eclipse -java</b>
 
 <h2>Program walk-through:</h2>
 
